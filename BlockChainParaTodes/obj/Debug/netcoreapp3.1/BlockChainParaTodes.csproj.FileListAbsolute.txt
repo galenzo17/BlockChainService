@@ -1,0 +1,13 @@
+C:\Users\t440\source\repos\BlockChainParaTodes\BlockChainParaTodes\bin\Debug\netcoreapp3.1\BlockChainParaTodes.exe
+C:\Users\t440\source\repos\BlockChainParaTodes\BlockChainParaTodes\bin\Debug\netcoreapp3.1\BlockChainParaTodes.deps.json
+C:\Users\t440\source\repos\BlockChainParaTodes\BlockChainParaTodes\bin\Debug\netcoreapp3.1\BlockChainParaTodes.runtimeconfig.json
+C:\Users\t440\source\repos\BlockChainParaTodes\BlockChainParaTodes\bin\Debug\netcoreapp3.1\BlockChainParaTodes.runtimeconfig.dev.json
+C:\Users\t440\source\repos\BlockChainParaTodes\BlockChainParaTodes\bin\Debug\netcoreapp3.1\BlockChainParaTodes.dll
+C:\Users\t440\source\repos\BlockChainParaTodes\BlockChainParaTodes\bin\Debug\netcoreapp3.1\BlockChainParaTodes.pdb
+C:\Users\t440\source\repos\BlockChainParaTodes\BlockChainParaTodes\obj\Debug\netcoreapp3.1\BlockChainParaTodes.csprojAssemblyReference.cache
+C:\Users\t440\source\repos\BlockChainParaTodes\BlockChainParaTodes\obj\Debug\netcoreapp3.1\BlockChainParaTodes.AssemblyInfoInputs.cache
+C:\Users\t440\source\repos\BlockChainParaTodes\BlockChainParaTodes\obj\Debug\netcoreapp3.1\BlockChainParaTodes.AssemblyInfo.cs
+C:\Users\t440\source\repos\BlockChainParaTodes\BlockChainParaTodes\obj\Debug\netcoreapp3.1\BlockChainParaTodes.csproj.CoreCompileInputs.cache
+C:\Users\t440\source\repos\BlockChainParaTodes\BlockChainParaTodes\obj\Debug\netcoreapp3.1\BlockChainParaTodes.dll
+C:\Users\t440\source\repos\BlockChainParaTodes\BlockChainParaTodes\obj\Debug\netcoreapp3.1\BlockChainParaTodes.pdb
+C:\Users\t440\source\repos\BlockChainParaTodes\BlockChainParaTodes\obj\Debug\netcoreapp3.1\BlockChainParaTodes.genruntimeconfig.cache
